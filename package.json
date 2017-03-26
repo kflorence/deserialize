@@ -1,0 +1,25 @@
+{
+  "name": "deserialize",
+  "version": "0.0.1",
+  "description": "Populate a form with serialized form data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kflorence/deserialize.git"
+  },
+  "keywords": [
+    "data",
+    "serialize",
+    "deserialize",
+    "form"
+  ],
+  "author": "Kyle Florence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kflorence/deserialize/issues"
+  },
+  "homepage": "https://github.com/kflorence/deserialize#readme"
+}
